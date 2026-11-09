@@ -3295,7 +3295,7 @@ background-image:url(https://developmentmatters.nl/wp-content/uploads/bg-collage
 }
 @media (max-width: 1023px) {
 .LS-story-section-right {
-background-image:url(/developmentmatters/wp-content/uploads/oxygen/css/none);background-size: contain; background-color:#ffffff;
+background-image:url(/wp-content/uploads/oxygen/css/none);background-size: contain; background-color:#ffffff;
 }
 }
 
@@ -3308,7 +3308,7 @@ padding-bottom: 45 ;
 }
 @media (max-width: 1023px) {
 .LS-story-section-left {
-background-image:url(/developmentmatters/wp-content/uploads/oxygen/css/none);}
+background-image:url(/wp-content/uploads/oxygen/css/none);}
 }
 
 @media (max-width: 799px) {
@@ -3379,7 +3379,7 @@ background-position:left center;
 
 @media (max-width: 799px) {
 .bg-position-left-center {
-background-image:url(/developmentmatters/wp-content/uploads/oxygen/css/no);}
+background-image:url(/wp-content/uploads/oxygen/css/no);}
 }
 
 .highlight {
@@ -3591,7 +3591,7 @@ display:flex;
 }
 .quote:before{
   content:"";
-display: inline-flex; background-image: url(/developmentmatters/wp-content/uploads/quote-sm.png); background-repeat: no-repeat; width: 120px; height: 93px; padding-left: 147px; margin-top: -58px;
+display: inline-flex; background-image: url(/wp-content/uploads/quote-sm.png); background-repeat: no-repeat; width: 120px; height: 93px; padding-left: 147px; margin-top: -58px;
 }
 .quote {
  font-family:Jost;
@@ -4308,7 +4308,7 @@ justify-content:flex-end;
 .icon-brain {
  attachment_height:150;
  attachment_width:150;
- attachment_url:/developmentmatters/wp-content/uploads/icon-brain-sm-min.png;
+ attachment_url:/wp-content/uploads/icon-brain-sm-min.png;
  z-index:99;
  width:60px;
  margin-bottom:15px;
