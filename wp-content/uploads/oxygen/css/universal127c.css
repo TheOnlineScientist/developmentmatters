@@ -621,7 +621,7 @@ flex-direction:column;
 .modal-tip:before{
  margin-right:10px;
   content:"";
-content:url('../../../../../gezondeschoolcommunity.nl/netwerk/wp-content/uploads/tip-web-2.png'); width:42px; height:72px; margin-right:20px; display:flex; flex-wrap:wrap;
+ width:42px; height:72px; margin-right:20px; display:flex; flex-wrap:wrap;
 }
 .modal-tip {
  max-width:90%;
@@ -2498,7 +2498,7 @@ justify-content:flex-start;
 }
 .tabs-0590-tab:before{
   content:"";
-display:inline-block; content: url("../../../../../developmentmatters.nl/wp-content/uploads/arrow-right-yellow.svg"); margin-right:7px;
+display:inline-block;  margin-right:7px;
 }
 .tabs-0590-tab {
  font-family:Gudea;
@@ -2515,7 +2515,7 @@ flex-direction:row;
 }
 .tabs-0590-tab-active:before{
   content:"";
-display:inline-block; content: url("../../../../../developmentmatters.nl/wp-content/uploads/arrow-right-blue.svg"); margin-right:7px; transform: rotate(90deg); -webkit-transform: rotate(90deg);
+display:inline-block;  margin-right:7px; transform: rotate(90deg); -webkit-transform: rotate(90deg);
 }
 .tabs-0590-tab-active:hover{
  border-bottom-color:color(25);
@@ -3222,7 +3222,7 @@ transform:scale(1.05,1.05) rotate(3deg); transition-duration:0.2s;
  transition-duration:0.3s;
 }
 .ls-grayscale {
-background-image:url(../../blank-user.html); filter:grayscale(100%);
+ filter:grayscale(100%);
  transition-duration:0.5s;
 }
 .ls-decoration-bottom {
@@ -3291,16 +3291,16 @@ padding-bottom: 0;
 }
 
 .LS-story-section-right {
-background-image:url(../../bg-collage.html);background-size: 300px auto;background-position: right center;
+background-size: 300px auto;background-position: right center;
 }
 @media (max-width: 1023px) {
 .LS-story-section-right {
-background-image:url(none.html);background-size: contain; background-color:#ffffff;
+background-image:none;background-size: contain; background-color:#ffffff;
 }
 }
 
 .LS-story-section-left {
-background-image:url(../../art-left.html);background-size: 260px auto;background-position: left-center;
+background-size: 260px auto;background-position: left-center;
 }
 .LS-story-section-left .ct-section-inner-wrap {
 padding-top: 45 ;
@@ -3308,7 +3308,7 @@ padding-bottom: 45 ;
 }
 @media (max-width: 1023px) {
 .LS-story-section-left {
-background-image:url(none.html);}
+background-image:none;}
 }
 
 @media (max-width: 799px) {
@@ -3332,7 +3332,7 @@ justify-content:center;
 }
 @media (max-width: 1023px) {
 .LS-section-down {
-background-image:url(../../art-right.html);background-size: contain; background-repeat:no-repeat;
+background-size: contain; background-repeat:no-repeat;
 }
 }
 
@@ -3379,7 +3379,7 @@ background-position:left center;
 
 @media (max-width: 799px) {
 .bg-position-left-center {
-background-image:url(no.html);}
+background-image:none;}
 }
 
 .highlight {
@@ -3401,7 +3401,7 @@ color: color(12);}.ls-icons
  background-color:#fff0df;
 }
 .LS-story-alt-right {
-background-image:url(../../img-art-right.html);background-size: contain;background-position:right center;
+background-size: contain;background-position:right center;
 }
 .LS-story-alt-right:not(.ct-section):not(.oxy-easy-posts),
 .LS-story-alt-right.oxy-easy-posts .oxy-posts,
@@ -3417,11 +3417,11 @@ flex-direction:column;
 .event_row_1st {
 }
 .ls-arrow-before-yellow {
-display:inline-block; content: url("../../../../../developmentmatters.nl/wp-content/uploads/arrow-right-yellow.svg"); margin-right:7px;
+display:inline-block;  margin-right:7px;
 }
 .ls-tab-text:before{
   content:"";
-display:inline-block; content: url("../../../../../developmentmatters.nl/wp-content/uploads/arrow-right-yellow.svg"); margin-right:7px;
+display:inline-block;  margin-right:7px;
 }
 .ls-tab-text {
 }
@@ -3642,7 +3642,7 @@ margin-top:-100px; padding-left:0;
 }
 
 .custom-divider-after:after{
-background-image:url(../../../../../developmentmatters.nl/wp-content/uploads/waves-transparent.png);background-size: cover; height:100px;
+background-size: cover; height:100px;
  background-color:#1b998b;
  left:0px;
  top:0px;
@@ -4308,7 +4308,6 @@ justify-content:flex-end;
 .icon-brain {
  attachment_height:150;
  attachment_width:150;
- attachment_url:http://www.developmentmatters.nl/wp-content/uploads/icon-brain-sm-min.png;
  z-index:99;
  width:60px;
  margin-bottom:15px;
